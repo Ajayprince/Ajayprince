@@ -1,5 +1,4 @@
-<img src='![wp3738465-purple-scenic-wallpapers](https://user-images.githubusercontent.com/31640557/211228639-db9a715e-d1c2-4bfa-9f7d-db9fc35f3912.jpg)
-' style='margin:0px;height: 100px' >
+<img src='https://firebasestorage.googleapis.com/v0/b/attendence1-88567.appspot.com/o/wp3738465-purple-scenic-wallpapers.jpg?alt=media&token=d4fc0563-c315-4db6-ba5f-95baedbd5d9d' style='margin:0px;height: 400px;width:100%;object-fit:cover;' >
 
 - 👋 Heya!! Namaste!
  I'm Ajay A.K.A Ganapathi VPR from Mumbai, INDIA.
