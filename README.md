@@ -3,14 +3,14 @@
 - 👋 Heya!! Namaste!
  I'm Ajay A.K.A Ganapathi VPR from Mumbai, INDIA.
  
-- 👀 I'm an App developer with 1+ years of experience in Flutter and a Machine Learning enthusuiast developing projects in it. I love learning new technologies and I'm an upcoming entreprenuer providing services to automate tasks in organizations. Stay tuned.
+- 👀 I'm an App developer with 2+ years of experience in Flutter and a Machine Learning enthusuiast developing projects in it. I love learning new technologies and I'm an upcoming entreprenuer providing services to automate tasks in organizations. Stay tuned.
 
-- 🌱 Currently working on a FinTech Project - Penny Cash Uberization.
+- 🌱 Currently working on a LLMs Project - Grace AI.
 
 - 💞️ I’m looking to collaborate on any new projects.
 
 - 📫 How to reach me ...
-   IG: ajayprince_03
+   LinkedIn: https://www.linkedin.com/in/ganapathivpr
    Mail: ganapathidonga2003@gmail.com
 
 <!---
