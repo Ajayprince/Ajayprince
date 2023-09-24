@@ -7,6 +7,21 @@
 
 - 🌱 Currently working on a LLMs Project - Grace AI.
 
+###
+
+<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
+
+###
+
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+  </a>
+ 
+</div>
+
+###
+
 - 💞️ I’m looking to collaborate on any new projects.
 
 - 📫 How to reach me ...
