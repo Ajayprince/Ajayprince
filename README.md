@@ -15,7 +15,7 @@
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,tensorflow,aws,gcp,figma,vscode,android,nextjs,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,tensorflow,aws,gcp,figma,vscode,nextjs,github&theme=dark" />
   </a>
  
 </div>
