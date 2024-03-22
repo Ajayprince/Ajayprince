@@ -28,9 +28,7 @@
    LinkedIn: https://www.linkedin.com/in/ganapathivpr
    Mail: ganapathidonga2003@gmail.com
 
-<h2 align="left" style="color:white;" >💰 You can help me by Donating</h2>
-<a href="https://www.buymeacoffee.com/ganapathidm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
-
+<a href="https://app.daily.dev/ajayprince"><img src="https://api.daily.dev/devcards/v2/e4PGsBF4X84bWFPxpGGoe.png?r=dfr&type=default" width="356" alt="Ajay Prince's Dev Card"/></a>
 <!---
 Ajayprince/Ajayprince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
