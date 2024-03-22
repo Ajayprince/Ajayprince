@@ -29,6 +29,14 @@
    Mail: ganapathidonga2003@gmail.com
 
 <a href="https://app.daily.dev/ajayprince"><img src="https://api.daily.dev/devcards/v2/e4PGsBF4X84bWFPxpGGoe.png?type=wide&r=4yc" width="652" alt="Ajay Prince's Dev Card"/></a>
+
+<h3 align="center">📫 How to Reach me:</h3>
+<p align="center">
+<a href="https://instagram.com/ajaystechie" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://twitter.com/Ganapathi-AJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ganapathivpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:ganapathidonga2003@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+</p>
 <!---
 Ajayprince/Ajayprince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
