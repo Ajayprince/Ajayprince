@@ -5,7 +5,9 @@
  
 - 👀 I'm an App developer with 2+ years of experience in Flutter and a Machine Learning enthusuiast developing projects in it. I love learning new technologies and I'm an upcoming entreprenuer providing services to automate tasks in organizations. Stay tuned.
 
-- 🌱 Currently working on a LLMs Project - Grace AI.
+- 🌱 Currently working on a LLM Projects.
+
+- Code till I sleep, Game till I die 
 
 ###
 
